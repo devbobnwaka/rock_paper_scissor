@@ -1,5 +1,10 @@
 import random
 
+print("ROCK, PAPER SCISSORS GAME")
+print("R for rock")
+print("P for paper")
+print("S for scissors")
+
 possible_actions = ['R', 'P', 'S']
 player_action = input('Enter a choice (R, P, S): ').upper()
 
